@@ -38,3 +38,8 @@ button {
   height: 100%;
   object-fit: cover;
 }
+
+/* Task 10 */
+#boxes .boxes-item {
+  margin-bottom: 10px;
+}
